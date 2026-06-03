@@ -1,4 +1,4 @@
-## Olá! Seja bem vindo ao meu perfil! 👋🏻
+## Olá, eu sou o Felipe! Seja bem vindo ao meu perfil! 👋🏻
 
 <div>
   <a href="https://github.com/petrassifelipe">
